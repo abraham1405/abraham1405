@@ -10,6 +10,23 @@
 
 ---
 
+# 👋 Toma asiento, que si estás aquí no es por casualidad...
+
+Si estás leyendo esto, es muy probable que estés buscando a alguien que haga magia en el desarrollo web... o simplemente te dio curiosidad mi perfil. En cualquiera de los dos casos: **¡te doy la bienvenida!** ☕
+
+Soy **Abraham**, desarrollador **Full-Stack**. Mi día a día consiste en transformar ideas complejas en soluciones limpias, escalables y seguras. 
+
+### 💡 ¿Qué encuentras por aquí?
+* ⚙️ **Backend potente:** APIs robustas y arquitecturas bien estructuradas con **.NET (C#)**, **Python (Django)** y **PHP**.
+* 🎨 **Frontend moderno:** Interfaces ágiles, reactivas y bien tipadas con **React 19** y **TypeScript**.
+* 🔐 **Seguridad & Calidad:** Autenticación JWT, gestión limpia de perfiles y buenas prácticas de código.
+
+> 🛠️ *Mi filosofía es sencilla:* escribir código que no solo funcione, sino que sea fácil de mantener y un placer de leer.
+
+Si tienes un proyecto interesante en mente o simplemente quieres hablar de código, **¡mis mensajes están abiertos!** 👇
+
+---
+
 ### 💻 Tech Stack
 
 <div align="center">

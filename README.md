@@ -38,22 +38,6 @@
 
 ---
 
-### 📈 Estadísticas de GitHub
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abraham1405&layout=compact&theme=dark&hide_border=true&title_color=61DAFB&icon_color=61DAFB" />
-
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=abraham1405&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=61DAFB&icon_color=61DAFB" />
-
-<br/><br/>
-
-[![GitHub Streak](https://github-readme-streak-stats.vercel.app?user=abraham1405&theme=dark&border_radius=4.6&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
----
-
 ### 📂 Proyectos Destacados
 
 | Proyecto | Descripción | Tech Stack |

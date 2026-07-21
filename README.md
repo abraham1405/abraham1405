@@ -20,18 +20,57 @@
 
 ---
 
+
 ### 📊 Nivel de Dominio Técnico
 
-
+<div align="center">
 
 | Lenguaje / Tech | Dominio Visual |
 | :--- | :--- |
-| **React / TypeScript / JS** | ![React](https://geektutor.github.io/status-bar/bar.svg?progress=90) |
-| **.NET / C#** | ![.NET](https://geektutor.github.io/status-bar/bar.svg?progress=85) |
-| **Python / Django** | ![Python](https://geektutor.github.io/status-bar/bar.svg?progress=75) |
-| **PHP** | ![PHP](https://geektutor.github.io/status-bar/bar.svg?progress=65) |
+| **React / TypeScript / JS** | ![React Progress](https://img.shields.io/badge/90%25-61DAFB?style=for-the-badge&logo=react&logoColor=black) |
+| **.NET / C#** | ![.NET Progress](https://img.shields.io/badge/85%25-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) |
+| **Python / Django** | ![Python Progress](https://img.shields.io/badge/75%25-3776AB?style=for-the-badge&logo=python&logoColor=white) |
+| **PHP** | ![PHP Progress](https://img.shields.io/badge/65%25-777BB4?style=for-the-badge&logo=php&logoColor=white) |
+
+</div>
 
 
+
+---
+
+### 📈 Estadísticas de GitHub
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abraham1405&layout=compact&theme=dark&hide_border=true&title_color=61DAFB&icon_color=61DAFB" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=abraham1405&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=61DAFB&icon_color=61DAFB" />
+
+<br/><br/>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abraham1405&theme=dark&border_radius=4.6&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+### 📂 Proyectos Destacados
+
+| Proyecto | Descripción | Tech Stack |
+| :--- | :--- | :--- |
+| 💻 **[AccountManagerWeb](https://github.com/abraham1405/AccountManagerWeb)** | Cliente web para gestión de usuarios, login JWT y recuperación de clave. | React 19, TypeScript, Vite |
+| ⚙️ **[AccountManagerAPI](https://github.com/abraham1405/AccountManagerAPI)** | API RESTful con autenticación JWT, servicios de correo SMTP e Identity. | .NET, EF Core, C# |
+
+---
+
+<div align="center">
+
+### 🌐 ¡Conectemos!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abrahamzavala)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a.jzavala@hotmail.com)
+
+</div>
 
 ---
 
@@ -47,4 +86,3 @@ const abraham = {
 };
 
 
-📈 Estadísticas de GitHub📂 Proyectos DestacadosProyectoDescripciónTech Stack💻 AccountManagerWebCliente web para gestión de usuarios, login JWT y recuperación de clave.React 19, TypeScript, Vite⚙️ AccountManagerAPIAPI RESTful con autenticación JWT, servicios de correo SMTP e Identity..NET, EF Core, C#🌐 ¡Conectemos!🔥 ¿Qué incluye esta versión?Barras gráficas de porcentaje para cada tecnología (incluyendo explícitamente Python y PHP) mediante imágenes SVG dinámicas.El gráfico exacto de Streak Stats utilizando la URL con los parámetros exactos de tu segunda captura (theme=dark&border_radius=4.6&hide_border=true).Sección de perfil y proyectos unificada, destacando todos tus lenguajes principales desde el encabezado.
